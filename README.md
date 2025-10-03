@@ -1,6 +1,7 @@
 ## Hi there 👋
+<div align="center">
 
-![icon](//Picture/shimaenaga.jpg)
+[<img src="~/Picture/shimaenaga.jpg" width="100" alt="Ghostfolio logo">](https://github.com/itc-s24018?tab=repositories)
 
 <!--
 **itc-s24018/itc-s24018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
