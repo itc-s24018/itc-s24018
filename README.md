@@ -1,11 +1,10 @@
 # Hi there 👋
 
-<div style="text-align: center;">
 
-![icon](jetbrains://idea/navigate/reference?project=itc-s24018&path=~%2FPictures%2Fshimaenaga.jpg)
+
+![icon](Aspose.Words.b9e8741e-638a-4935-9ae4-25ed9992ae61.001.jpeg)
 # My Cool Portfolio
 
-</div>
 
 ## 概要
 ITカレッジ沖縄でプログラミングを勉強しています！
@@ -13,7 +12,11 @@ ITカレッジ沖縄でプログラミングを勉強しています！
 
 - 🚀**学習中の技術**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF4500&logoColor=black&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JavaScript-3766)
+
+
 
 
 
