@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+![/home/omg/Pictures/shimaenaga.jpg](<img src="https://github.com/itc-s24018?tab=repositories)
 <!--
 **itc-s24018/itc-s24018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
