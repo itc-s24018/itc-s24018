@@ -1,8 +1,4 @@
 # Hi there 👋
-
-
-
-![icon](../../Pictures/shimaenaga.jpg)
 # My Cool Portfolio
 
 
