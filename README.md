@@ -13,14 +13,14 @@ ITカレッジ沖縄でプログラミングを勉強しています！
 - 🚀**学習中の技術**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FF4500&logoColor=black&logoColor=white)
-![Static Badge](https://img.shields.io/badge/JavaScript-3766)
+![Java](https://img.shields.io/badge/Java-FF4500?style=for-the-badge&&logoColor=black&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-3766?style=for-the-badge)
 
 
 
 
 
-*****
+
 
 
 
