@@ -2,12 +2,12 @@
 
 
 
-![icon](Aspose.Words.b9e8741e-638a-4935-9ae4-25ed9992ae61.001.jpeg)
+![icon](../../Pictures/shimaenaga.jpg)
 # My Cool Portfolio
 
 
 ## 概要
-ITカレッジ沖縄でプログラミングを勉強しています！
+![ITカレッジ沖縄](https://www.it-college.ac.jp/?gad_source=1&gad_campaignid=21932555444&gbraid=0AAAAADbsbBXDWc4zi0dkYdbYzGiaKUJmj&gclid=CjwKCAjwxfjGBhAUEiwAKWPwDu3bC80pp1wfTITlkkQIzTLczmmyxZQF8CnZXMCrC6BWHTp1_iQbQBoCINgQAvD_BwE)でプログラミングを勉強しています！
 なんでも知りたがるので質問攻め癖があります！結構うざいです！！
 
 - 🚀**学習中の技術**
