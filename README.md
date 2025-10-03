@@ -1,6 +1,12 @@
-## Hi there 👋
+# Hi there 👋
 
-![icon](/home/omg/Pictures/shimaenaga.jpg)
+## My Cool Portfolio
+
+ITカレッジ沖縄でプログラミングを勉強しています！
+なんでも知りたがるので質問攻め癖があります！結構うざいです！！
+
+
+
 <!--
 **itc-s24018/itc-s24018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
